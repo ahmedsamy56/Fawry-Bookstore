@@ -1,6 +1,6 @@
 # Quantum Bookstore
 
-## 📸 Screenshots
+##  Screenshots
 
 ### 1. Add Books  
 ![Add Books](assets/Add_books.png)  
